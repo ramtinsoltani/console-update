@@ -1,0 +1,25 @@
+{
+  "name": "console-update",
+  "version": "1.0.0",
+  "description": "Update lines in the console with simple API",
+  "main": "console-update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramtinsoltani/console-update.git"
+  },
+  "keywords": [
+    "console",
+    "update",
+    "readline",
+    "chaining"
+  ],
+  "author": "Ramtin Soltani <ramtinsoltani93@gmail.com> (http://ramt.in)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramtinsoltani/console-update/issues"
+  },
+  "homepage": "https://github.com/ramtinsoltani/console-update#readme"
+}
